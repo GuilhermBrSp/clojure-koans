@@ -3,6 +3,8 @@
 The Clojure Koans are a fun way to get started with Clojure - no experience
 assumed or required. Follow the instructions below to start making tests pass!
 
+## Extra content from my personal learning
+- 28_memoization.clj
 
 ## Getting Started
 
